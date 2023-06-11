@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![eig](8.png)
 
-### Name:
-### Register Number:
+### Name:NITEESH.M
+### Register Number:212222230098
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
