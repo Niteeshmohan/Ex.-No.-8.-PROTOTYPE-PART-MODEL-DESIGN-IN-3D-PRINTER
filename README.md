@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![eig](8.png)
+![eig](ex8.png)
 
 ### Name:NITEESH.M
 ### Register Number:212222230098
